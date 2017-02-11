@@ -1,0 +1,1 @@
+Performed sentimental analysis to analyze how travelers of six US airline companies expressed their feelings on Twitter, in July 2016. Cleaned data using regular expressions, classified various emotions and computed polarity of every tweet to classify it.

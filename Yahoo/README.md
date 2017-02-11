@@ -1,0 +1,1 @@
+Maximized the expected 5 year growth for a set of stocks from Yahoo Finance data by using optimization under a given set of constraints in MS Excel. Mixed Integer programming was used to implement the constraints. The various decision variables were optimized through sensitivity analysis. Investment stocks data was refreshed from Yahoo Finance website by implementing macros.

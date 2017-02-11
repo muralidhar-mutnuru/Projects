@@ -1,3 +1,4 @@
+#installing the required packages
 install.packages("statmod")
 install.packages("cplm")
 install.packages("caret",dependencies = T)

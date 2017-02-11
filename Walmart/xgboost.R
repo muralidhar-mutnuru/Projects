@@ -1,4 +1,4 @@
-WALMART -TRIP TYPE CLASSIFICATION
+WALMART - TRIP TYPE CLASSIFICATION
 
 https://www.kaggle.com/c/walmart-recruiting-trip-type-classification
 

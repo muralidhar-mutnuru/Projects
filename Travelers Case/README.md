@@ -23,20 +23,10 @@ Area: Driving area of residence
 Agecat: Driver’s age category from young (1) to old (6)
 
 
-3)	Modeling 
-
-Each group may have at most 5 people and will:
-a.	Work together within group on data analysis, but not between groups
-b.	Build a model to predict the claim cost (claimcst0) and submit the predicted cost for validation data. You can build the model with any software 
-c.	Submit the prediction of hold out data as a csv file. Format of submission will be provided with data
-d.	Prepare presentation slides to summary the prediction and analysis results. You do not need to explain the problem, just summarize what you did and what you found  
-e.	Work with your group members and ask for clarification from the email at the end of this introduction
-
-
-4)	Model Evaluation
+3)	Model Evaluation
 The model will be evaluated by gini index. We will calculate your score once you submit your result.
 
-8)	Presentation instructions
+4)	Presentation instructions
 Submit your code with documentation along with a report answering the following questions:
 a.	What methods did you consider (you don’t have to actually try all of these methods; just ones that you think would work for this problem)?
 b.	What method did you choose in the end, and why?
@@ -44,4 +34,4 @@ c.	How did you do you variable selection?
 d.	What variables help explain pure premium (explain to a non-statistician; please include this in your presentation for your business partner)?
 e.	What other variables not in the data set do you think might be useful?
 
-The teams scoring better than the benchmark will move to the second stage, the live presentation. Each qualifying team will give a 7min presentation on the above questions and 3min Q&A session. Top teams will be eligible for consideration as the overall UCONN winner. 
+The teams scoring better than the benchmark will move to the second stage, the live presentation. Each qualifying team will give a 7min presentation on the above questions and 3min Q&A session.

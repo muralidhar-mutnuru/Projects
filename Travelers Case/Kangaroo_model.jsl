@@ -1,0 +1,15 @@
+Fit Model(
+	Y( :claimcst0 ),
+	Effects( :veh_value, :exposure, :veh_body, :veh_age, :gender, :area, :agecat ),
+	Personality( "Generalized Regression" ),
+	Generalized Distribution( "ZI Negative Binomial" ),
+	Run( Fit( Estimation Method( Lasso( Adaptive ) ), Validation Method( AICc ) ) ),
+	SendToReport(
+		Dispatch(
+			{"Adaptive Lasso with AICc Validation", "Effect Tests"},
+			"",
+			TableBox,
+			{Sort By Column( 5, 1 )}
+		)
+	)
+)

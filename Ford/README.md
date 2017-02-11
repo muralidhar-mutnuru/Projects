@@ -1,0 +1,1 @@
+Developed insights and models to predict the alertness of a driver, on a dataset which had no column names and data dictionary. Tried numerous classification models and learnt how to deal with data from an agnostic point of view, rank models using cost matrix analysis and compare our techniques with those of other competitors.

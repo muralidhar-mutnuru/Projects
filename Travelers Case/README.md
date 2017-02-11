@@ -24,9 +24,11 @@ Agecat: Driver’s age category from young (1) to old (6)
 
 
 3)	Model Evaluation
+
 The model will be evaluated by gini index. We will calculate your score once you submit your result.
 
 4)	Presentation instructions
+
 Submit your code with documentation along with a report answering the following questions:
 a.	What methods did you consider (you don’t have to actually try all of these methods; just ones that you think would work for this problem)?
 b.	What method did you choose in the end, and why?

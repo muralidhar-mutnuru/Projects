@@ -1,0 +1,1 @@
+Analyzed and recommended optimal tiers for Teach for America's recruiting strategies. Used K Means clustering to segment universities into various clusters and found the best cluster. Silhouette plots in R were used to measure the effectiveness of the clusters formed and derived insights on the back of some unique visualization using Tableau
